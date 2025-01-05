@@ -18,7 +18,7 @@ This project is a simple clone of the Google homepage, created as a learning exe
 
 ## Live Demo
 
-<a trarget="_blank" href="https://developerjuanr-google-homepage.netlify.app/"><p>google gomepage demo</p></a>
+[Google Homepage Demo](https://developerjuanr-google-homepage.netlify.app/)
 
 ## What I Learned
 
