@@ -13,9 +13,8 @@ This project is a simple clone of the Google homepage, created as a learning exe
 
 ## Technologies Used
 
-- **HTML5**: For structuring the webpage.
-- **CSS3**: For styling and animations.
-- **Netlify**: For deployment.
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 
 ## Live Demo
 
