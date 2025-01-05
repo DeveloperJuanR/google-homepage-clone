@@ -33,13 +33,17 @@ Check out the live demo of the project here: [Google Homepage Clone](https://dev
 
 1. Clone this repository:
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/DeveloperJuanR/google-homepage-clone.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd google-homepage-clone
+   ```bash
+   cd google-homepage-clone
+   ```
 3. Open index.html in your preferred browser:
-    ```bash
-    open index.html
+   ```bash
+   open index.html
+   ```
 
 ## Future Improvements
+
 - Add interactivity using JavaScript.
